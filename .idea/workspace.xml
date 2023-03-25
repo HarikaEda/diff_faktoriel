@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dfc34713-3b6c-4299-886e-7d482c0c93ed" name="Changes" comment="değişiklikler yapıldı">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diff_faktoriel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diffbetween.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factoriel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factoriel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factoriel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679572521452</updated>
     </task>
+    <task id="LOCAL-00001" summary="değişiklikler yapıldı">
+      <created>1679751986758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679751986758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
